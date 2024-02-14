@@ -1,0 +1,19 @@
+.carousel{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    height: 100vh;
+}
+.carousel img{
+    height: 300px;
+}
+
+button{
+    height: 30px;
+    border-radius: 50%;
+    border: none;
+    background-color: black;
+    font-size: 15px;
+    color: aliceblue;
+    margin: 10px;
+}
